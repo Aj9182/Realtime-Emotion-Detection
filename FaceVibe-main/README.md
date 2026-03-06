@@ -55,8 +55,7 @@ YouTube-Video-Summarization-App/
 └── README.md                                           # This README file
 ```
 
-## Demo Application Interface
-![Screenshot 2024-11-01 163047](https://github.com/user-attachments/assets/2c54f20e-0464-421d-a768-fbbfdd47bc3f)
+
 
 
 
